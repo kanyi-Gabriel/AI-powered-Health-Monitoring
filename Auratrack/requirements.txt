@@ -1,11 +1,11 @@
 annotated-types==0.7.0
-asgiref @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_asgiref_1770273198/work
+asgiref 
 certifi==2026.1.4
 cffi==2.0.0
 charset-normalizer==3.4.4
 cryptography==46.0.5
-Django @ file:///home/conda/feedstock_root/build_artifacts/django_1764693175125/work
-djangorestframework @ file:///home/conda/feedstock_root/build_artifacts/djangorestframework_1754514405054/work
+Django 
+djangorestframework 
 google-ai-generativelanguage==0.6.15
 google-api-core==2.30.0
 google-api-python-client==2.190.0
@@ -18,10 +18,10 @@ grpcio-status==1.71.2
 httplib2==0.31.2
 idna==3.11
 mkl-service==2.5.2
-mkl_fft @ file:///home/task_176159258761192/conda-bld/mkl_fft_1761592901799/work
-mkl_random @ file:///home/task_176159293348456/conda-bld/mkl_random_1761592947335/work
-numpy @ file:///home/task_177073254252933/croot/numpy_and_numpy_base_1770732580517/work/dist/numpy-2.4.2-cp311-cp311-linux_x86_64.whl#sha256=2460a2a262049a6019d3f868575a0d2004f6816af5312d3729692beac48061c3
-packaging @ file:///home/task_176104885106445/conda-bld/packaging_1761049078006/work
+mkl_fft 
+mkl_random 
+numpy 
+packaging 
 proto-plus==1.27.1
 protobuf==5.29.6
 pyasn1==0.6.2
@@ -31,10 +31,10 @@ pydantic==2.12.5
 pydantic_core==2.41.5
 pyparsing==3.3.2
 requests==2.32.5
-scipy @ file:///home/task_177149183325733/croot/scipy_1771491865490/work/dist/scipy-1.17.0-cp311-cp311-linux_x86_64.whl#sha256=cacfa40a1c8409e70e1103b72c695a233df9119e964fe06dd7473e0965ebb8cb
-sqlparse @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_sqlparse_1766143791/work
+scipy 
+sqlparse 
 tqdm==4.67.3
 typing-inspection==0.4.2
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1756220668/work
+typing_extensions 
 uritemplate==4.2.0
 urllib3==2.6.3
