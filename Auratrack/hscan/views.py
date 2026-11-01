@@ -9,7 +9,7 @@ from .utils import calculate_vitals
 
 # Configure your Google API key
 # Best practice is to put this in settings.py, but this works for testing
-GEMINI_API_KEY = getattr(settings, "GEMINI_API_KEY", "AIzaSyBoHlm6jAu-9iopS_PE08SDPz7uxCCrEX0")
+GEMINI_API_KEY = settings.GEMINI_API_KEY
 genai.configure(api_key=GEMINI_API_KEY)
 
 @csrf_exempt 

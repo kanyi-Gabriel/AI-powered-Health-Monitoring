@@ -1,5 +1,5 @@
 # 1. specify the  Python version
-FROM python:3.11-slim
+FROM python:3.12-slim
 
 # 2. Set the working directory to match the project
 WORKDIR /app

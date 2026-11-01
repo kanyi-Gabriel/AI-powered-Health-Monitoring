@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+myenv/
+venv/
+.venv/
+
+# Local data and secrets
+db.sqlite3
+.env
